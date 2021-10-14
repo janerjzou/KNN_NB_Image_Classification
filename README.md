@@ -1,7 +1,8 @@
 # KNN_NB_Image_Classification
-## Sep 2020 - Oct 2020
+## COMP5318 - Assignment 1 - Individual
+Sep 2020 - Oct 2020
 
-Build KNN / NaiveBayes model for image classification form scratch
+Build KNN / NaiveBayes model for image classification form scratch.
 
 
 
